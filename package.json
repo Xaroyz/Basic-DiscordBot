@@ -1,7 +1,7 @@
 {
-  "name": "skycraft",
+  "name": "xaroyz",
   "version": "1.0.0",
-  "description": "Discord bot voor de discord server SkyCraft",
+  "description": "Test Discord bot",
   "main": "index.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
@@ -31,6 +31,6 @@
     "bot",
     "skycraft"
   ],
-  "author": "@Sundeep#2020",
+  "author": "Xaroyz",
   "license": "ISC"
 }
