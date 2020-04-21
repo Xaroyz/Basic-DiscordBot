@@ -1,0 +1,36 @@
+{
+  "name": "skycraft",
+  "version": "1.0.0",
+  "description": "Discord bot voor de discord server SkyCraft",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cpu-stat": "^2.0.1",
+    "discord-giveaways": "^3.2.1",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "nodemon": "^2.0.2",
+    "os": "^0.1.1",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "superagent": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "/run",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "bot",
+    "skycraft"
+  ],
+  "author": "@Sundeep#2020",
+  "license": "ISC"
+}
